@@ -1,0 +1,2 @@
+// Food model
+class FoodModel {}
