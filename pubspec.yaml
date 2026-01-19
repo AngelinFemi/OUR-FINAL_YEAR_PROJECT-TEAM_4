@@ -1,2 +1,25 @@
 name: food_donation_app
-description: A Flutter food donation app
+description: A Food Donation App for Donors and Volunteers
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.22.0
+  firebase_auth: ^4.6.4
+  cloud_firestore: ^5.16.0
+  google_maps_flutter: ^2.3.0
+  location: ^5.1.1
+  provider: ^6.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
