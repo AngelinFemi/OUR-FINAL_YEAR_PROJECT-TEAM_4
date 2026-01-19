@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'screens/splash_screen.dart';
 
-void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
+void main() {
   runApp(FoodDonationApp());
 }
 
