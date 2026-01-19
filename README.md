@@ -5,9 +5,11 @@
 A Flutter-based mobile application that helps donate surplus food from donors
 to people in need with the help of volunteers.
 
-### 👥 Team
-- AngelinFemi
-- Team 4
+### 👥 Team 4:
+- Angelin Femi C
+- Jaifrin A
+- Esther Venuka Y
+
 
 ### 🚀 Features
 - Donor food posting
